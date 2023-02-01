@@ -1,0 +1,33 @@
+@media(max-width:768px){
+    .three{
+        display: flex;
+        flex-direction: column;
+    }
+    
+}
+.two{
+    width:98.8%;
+    margin-top:5px;
+    margin-left:10px;
+}
+.three{
+    display: flex;
+    gap:48px;
+}
+.four{
+    border:1px solid grey;
+    width:98.8%;
+    margin-left:15px;
+    margin-top:20px;
+}
+.five{
+    border:1px solid grey;
+    width:98.8%;
+    margin-left:15px;
+    margin-top:20px;
+}
+.six{
+    width:98.8%;
+    margin-left:15px;
+    margin-top:20px;
+}
